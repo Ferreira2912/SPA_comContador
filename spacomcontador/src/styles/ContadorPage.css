@@ -1,0 +1,47 @@
+.contador-page-title {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+  
+  .contador-page-description {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .contador-container {
+    max-width: 30rem;
+    margin: 0 auto;
+  }
+  
+  .contador-info {
+    margin-top: 2rem;
+    padding: 1rem;
+    background-color: #ebf5ff;
+    border-radius: 0.5rem;
+  }
+  
+  .contador-info-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 0.75rem;
+  }
+  
+  .contador-info-text {
+    margin-bottom: 0.75rem;
+  }
+  
+  .contador-info-list {
+    list-style-position: inside;
+    margin-left: 1.5rem;
+  }
+  
+  .contador-info-list li {
+    margin-bottom: 0.5rem;
+  }
+  
+  code {
+    background-color: #f3f4f6;
+    padding: 0.125rem 0.25rem;
+    border-radius: 0.25rem;
+  }

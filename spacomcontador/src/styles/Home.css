@@ -1,0 +1,23 @@
+.home-title {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+  
+  .home-description {
+    font-size: 1.125rem;
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .cards-grid {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 1.5rem;
+  }
+  
+  @media (min-width: 768px) {
+    .cards-grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }

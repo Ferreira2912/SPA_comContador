@@ -1,0 +1,38 @@
+.sobre-title {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: var(--accent-color);
+  }
+  
+  .sobre-content {
+    background-color: white;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    box-shadow: var(--shadow);
+  }
+  
+  .sobre-content p {
+    margin-bottom: 1rem;
+  }
+  
+  .sobre-subtitulo {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .sobre-lista {
+    list-style-position: inside;
+    margin-left: 1.5rem;
+  }
+  
+  .sobre-lista li {
+    margin-bottom: 0.25rem;
+  }
+  
+  .sobre-destaque {
+    color: var(--primary-color);
+    font-weight: 500;
+    margin-top: 1rem;
+  }
